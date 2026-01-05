@@ -1,4 +1,0 @@
-package fundamentos
-
-class Variaveis {
-}
